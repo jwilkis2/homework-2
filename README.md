@@ -14,8 +14,10 @@ Part 3: https://github.com/jwilkis2/class-directory
 Application Intent:  
 Part 1:  
   - Rewrote assignment 1 in only javascript  
+  
 Part 2:  
   - Created set class that implements add and remove methods, and does not allow duplicates  
+  
 Part 3:  
   - Reads in a json file of names and emails  
   - Displays a list of names  
